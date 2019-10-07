@@ -1,30 +1,29 @@
 # Projeto-de-Agenda
 Projeto de agenda para matéria de engenharia de software
 
-Requisitos: 
+**Requisitos:**
 
-- Mini Mundo: Consultório Odontológico especializado em tratamentos de canais
+- **Mini Mundo:** Consultório Odontológico especializado em tratamentos de canais
 
-- Objetivo: Criar um sistema de agendamento
+- **Objetivo:** Criar um sistema de agendamento
 
-- 1. Visual: A página inicial desse sistema deve mostrar que tipo de agendamento está sendo feito (primeira consulta ou retorno).
+- **1. Visual:** A página inicial desse sistema deve mostrar que tipo de agendamento está sendo feito (primeira consulta ou retorno).
 Escolhida primeira consulta, o usuário do sistema irá inserir os dados do paciente, verificar e agendar para uma data disponível e selecionar o profissional disponível para atendimento.
 Ao escolher retorno, o usuário do sistema irá selecionar uma data para agendamento do retorno e os devidos procedimentos a serem executados (realização do canal, retirada da resina temporária e aplicação da resina definitiva).
 Após a escolha do tipo de agendamento, o Sistema irá informar ao consultório o agendamento e retornar ao usuário a confirmação.
 
-- 2. Tecnologia: O Sistema irá utilizar um Banco de Dados para administrar as informações, e será desenvolvido em Java Mobile.
+- **2. Tecnologia:** O Sistema irá utilizar um Banco de Dados para administrar as informações, e será desenvolvido em Java Mobile.
 
-- 3. Estrutura: O Sistema será utilizado pelo proprio usuário interessado em realizar o tratamento, funcionários do consultório para verificar as consultas ativas.
+- **3. Estrutura:** O Sistema será utilizado pelo proprio usuário interessado em realizar o tratamento, funcionários do consultório para verificar as consultas ativas.
 
-Projeto:
+**Projeto:**
 
-- 1. Visual: 
+- **1. Visual:** 
 
-- 2. Tecnologia:
+- **2. Tecnologia:**
 
-- 3. Estrutura:
+- **3. Estrutura:**
 
 Os diagramas podem ser encontrados no <a href="https://github.com/oiesc/Projeto-de-Agenda/tree/master/diagramas">github</a> são eles:
-Caso de uso.
-Diagrama de classes.
-Fluxograma.
+
+Caso de uso, Diagrama de classes e Fluxograma.
