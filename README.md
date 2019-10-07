@@ -23,6 +23,8 @@ Após a escolha do tipo de agendamento, o Sistema irá informar ao consultório 
 **Projeto:**
 
 - **1. Visual:** 
+  
+  O protótipo (telas) podem ser visualizados no <a href="https://github.com/oiesc/Projeto-de-Agenda/tree/master/telas">github</a> ou no site da <a href="https://marvelapp.com/4gjac15/screen/62174883" target="_blank">Marvelapp</a>.
 
 - **2. Tecnologia:**
 
