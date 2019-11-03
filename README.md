@@ -29,7 +29,9 @@ Após a escolha do tipo de agendamento, o Sistema irá informar ao consultório 
 - **2. Tecnologia:**
 
 Tecnologias usadas através do Docker:
+
 ~docker pull mysql
+
 ~docker pull janlo/agendav
 
 - **3. Estrutura:**
